@@ -1,7 +1,7 @@
 body {
     background-color: #44475a;
     font-family: 'Orbitron', sans-serif;
-    text-shadow: 0 0 15px #c50303;
+    text-shadow: 0 0 17px #c50303;
 }
 
 #foot-alpha-img {
@@ -95,4 +95,7 @@ img {
 position: relative;
 bottom: 80px;
 
+}
+#svg{
+box-shadow: 0 0 50px black
 }
